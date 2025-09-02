@@ -2,6 +2,7 @@
 /build/
 /dist/
 /out/
+/target
 
 # Dados privados do NetBeans
 /nbproject/private/
